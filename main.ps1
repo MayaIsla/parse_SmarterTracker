@@ -1,4 +1,4 @@
-$APIHost = 'smartertrack.becn.local';
+$APIHost = 'smartertrack.local';
 $HTTPS = $true;
 $API_ST = @{
     #API Call Default Values
